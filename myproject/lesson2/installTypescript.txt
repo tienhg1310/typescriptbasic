@@ -1,0 +1,7 @@
+cú pháp cài typescript
+
+npm i -g typescript
+
+nếu có lỗi bất kì
+
+sudo npm i -g typescript
