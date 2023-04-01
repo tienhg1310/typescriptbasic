@@ -1,0 +1,1 @@
+let myArr = ['tien', 'phuong', 'du', 21]
